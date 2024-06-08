@@ -78,6 +78,9 @@ Insights from the Dashboard
 - Location Performance: Astoria and Hell's Kitchen have the highest footfall, suggesting these locations are the most popular and may benefit from increased investment.
 - Customer Preferences: Large-sized drinks are the most popular, accounting for 34% of sales. Tailoring promotions and menu offerings to emphasize larger sizes may drive sales.
 - Weekly Sales Patterns: Fridays and Thursdays have the highest number of orders, making them critical days for promotional activities.
+  
+![Coffee Shop Sales Dashboard](https://github.com/your-username/your-repository/blob/main/coffe_shop.png)
+
 
 Tracking and Monitoring Performance Trends Over Time
 The project includes a robust system for tracking and monitoring sales performance trends over time. Key performance indicators (KPIs) such as transaction volume, revenue, and average transaction value are tracked regularly. This enables the identification of emerging trends, seasonal variations, and the impact of marketing campaigns. The use of visual dashboards allows for real-time monitoring and quick response to any issues or opportunities identified.
