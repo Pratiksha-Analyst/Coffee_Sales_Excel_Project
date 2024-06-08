@@ -79,7 +79,7 @@ Insights from the Dashboard
 - Customer Preferences: Large-sized drinks are the most popular, accounting for 34% of sales. Tailoring promotions and menu offerings to emphasize larger sizes may drive sales.
 - Weekly Sales Patterns: Fridays and Thursdays have the highest number of orders, making them critical days for promotional activities.
   
-
+![Coffee Shop Sales Dashboard](https://github.com/Pratiksha-Analyst/Coffee_sales_excel_project/blob/main/coffe_shop.png)
 
 
 Tracking and Monitoring Performance Trends Over Time
